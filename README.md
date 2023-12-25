@@ -1,3 +1,5 @@
+Daily learning
+
 # Creating the Front-end with ReactJS
 
 Project developed at the Impulso Fullstack Web Developer Bootcamp with guidance from specialist [Nathally Souza](https://github.com/nathyts "Nathally Souza").
